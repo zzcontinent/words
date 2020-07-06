@@ -1,19 +1,105 @@
-====> submit 英 [səbˈmɪt] 美 [səbˈmɪt] vt. 使服从；主张；呈递；提交 vi. 服从，顺从 submit /səbˈmɪt/ CET4 TEM4 ( submitting, submitted, submits )
-====> crap 英 [kræp] 美 [kræp] n. 废话；废物；屎；拉屎 vi. 掷骰子；拉屎 n. (Crap)人名；(英)克拉普 crap /kræp/ CET6+ TEM8
-====> allocator ['æləukeitə] n. 分配算符
-====> youdao 英 n. 有道（网易公司的搜索服务）
-====> darn 英 [dɑːn] 美 [dɑːrn] v. 织补；缝补 n. 织补处 adv. 非常（同 damn） adj. （非正式，加强语气）该死的 darn /dɑːn/ TEM8 ( darning, darned, darns )
-====> regression 英 [rɪˈɡreʃn] 美 [rɪˈɡreʃn] n. 回归；退化；逆行；复原
-====> regret 英 [rɪˈɡret] 美 [rɪˈɡret] vt. 后悔；对……感到遗憾；礼貌或正式地表示惋惜或抱歉；对（损失或缺乏）感到痛惜 vi. 遗憾 n. 遗憾，歉意 regret /rɪˈɡrɛt/ CET4 TEM8 ( regretting, regretted, regrets )
-====> breach 英 [briːtʃ] 美 [briːtʃ] n. 违背，违反；缺口 vt. 违反，破坏；打破 breach /briːtʃ/ CET6 TEM4 ( breaching, breached, breaches )
-====> revert 英 [rɪˈvɜːt] 美 [rɪˈvɜːrt] vi. 回复；重提；返祖遗传；归还 vt. 使恢复原状 n. 恢复原状者 vt. (Revert) 雷韦特（人名） revert /rɪˈvɜːt/ CET6 TEM8 ( reverting, reverted, reverts )
-====> furthermore 英 [ˌfɜːðəˈmɔː(r)] 美 [ˌfɜːrðərˈmɔːr] adv. 此外；而且 furthermore /ˈfɜːðəˌmɔː/ CET4 TEM4
-====> comprehend 英 [ˌkɒmprɪˈhend] 美 [ˌkɑːmprɪˈhend] vt. 理解；包含；由…组成 comprehend /ˌkɒmprɪˈhɛnd/ CET6+ TEM4 ( comprehending, comprehended, comprehends )
-====> elevate 英 [ˈelɪveɪt] 美 [ˈelɪveɪt] vt. 提升；举起；振奋情绪等；提升…的职位 elevate /ˈɛlɪˌveɪt/ CET6 TEM4 ( elevating, elevated, elevates )
-====> convenience 英 [kənˈviːniəns] 美 [kənˈviːniəns] n. 便利；厕所；便利的事物 convenience /kənˈviːnɪəns/ CET4 TEM4 ( conveniences )
-====> Pelion 英 ['pi:liən] 美 n. 珀利翁山（希腊山名）
-====> deprecated 英 [ˈdeprəkeɪtɪd] 美 ['dɛprə,ketɪd] v. 不赞成；弃用；不宜用（deprecate的过去式及过去分词形式） deprecate /ˈdɛprɪˌkeɪt/ TEM8 ( deprecating, deprecated, deprecates )
-====> manifest 英 [ˈmænɪfest] 美 [ˈmænɪfest] v. 表明，清楚显示（尤指情感、态度或品质）；证明；（病症）显现；（鬼魂或神灵）出现；在清单上记录 adj. 显然的，明显的；显现出的 n. 载货单，货单；旅客名单；货运列车编组清单 adv. 明显地 manifest /ˈmænɪˌfɛst/ CET6 TEM4 ( manifesting, manifested, manifests )
-====> wrapper 英 [ˈræpə(r)] 美 [ˈræpər] n. 包装材料；[包装] 包装纸；书皮 wrapper /ˈræpə/ TEM8 ( wrappers )
-====> infringement 英 [ɪnˈfrɪndʒmənt] 美 [ɪnˈfrɪndʒmənt] n. 侵犯；违反 infringement /ɪnˈfrɪndʒmənt/ ( infringements )
-====> Willful infringement 故意侵权
+20200705 ====> submit 英 [səbˈmɪt] 美 [səbˈmɪt] vt. 使服从；主张；呈递；提交 vi. 服从，顺从 submit /səbˈmɪt/ CET4 TEM4 ( submitting, submitted, submits )
+20200705 ====> crap 英 [kræp] 美 [kræp] n. 废话；废物；屎；拉屎 vi. 掷骰子；拉屎 n. (Crap)人名；(英)克拉普 crap /kræp/ CET6+ TEM8
+20200705 ====> allocator ['æləukeitə] n. 分配算符
+20200705 ====> youdao 英 n. 有道（网易公司的搜索服务）
+20200705 ====> darn 英 [dɑːn] 美 [dɑːrn] v. 织补；缝补 n. 织补处 adv. 非常（同 damn） adj. （非正式，加强语气）该死的 darn /dɑːn/ TEM8 ( darning, darned, darns )
+20200705 ====> regression 英 [rɪˈɡreʃn] 美 [rɪˈɡreʃn] n. 回归；退化；逆行；复原
+20200705 ====> regret 英 [rɪˈɡret] 美 [rɪˈɡret] vt. 后悔；对……感到遗憾；礼貌或正式地表示惋惜或抱歉；对（损失或缺乏）感到痛惜 vi. 遗憾 n. 遗憾，歉意 regret /rɪˈɡrɛt/ CET4 TEM8 ( regretting, regretted, regrets )
+20200705 ====> breach 英 [briːtʃ] 美 [briːtʃ] n. 违背，违反；缺口 vt. 违反，破坏；打破 breach /briːtʃ/ CET6 TEM4 ( breaching, breached, breaches )
+20200705 ====> revert 英 [rɪˈvɜːt] 美 [rɪˈvɜːrt] vi. 回复；重提；返祖遗传；归还 vt. 使恢复原状 n. 恢复原状者 vt. (Revert) 雷韦特（人名） revert /rɪˈvɜːt/ CET6 TEM8 ( reverting, reverted, reverts )
+20200705 ====> furthermore 英 [ˌfɜːðəˈmɔː(r)] 美 [ˌfɜːrðərˈmɔːr] adv. 此外；而且 furthermore /ˈfɜːðəˌmɔː/ CET4 TEM4
+20200705 ====> comprehend 英 [ˌkɒmprɪˈhend] 美 [ˌkɑːmprɪˈhend] vt. 理解；包含；由…组成 comprehend /ˌkɒmprɪˈhɛnd/ CET6+ TEM4 ( comprehending, comprehended, comprehends )
+20200705 ====> elevate 英 [ˈelɪveɪt] 美 [ˈelɪveɪt] vt. 提升；举起；振奋情绪等；提升…的职位 elevate /ˈɛlɪˌveɪt/ CET6 TEM4 ( elevating, elevated, elevates )
+20200705 ====> convenience 英 [kənˈviːniəns] 美 [kənˈviːniəns] n. 便利；厕所；便利的事物 convenience /kənˈviːnɪəns/ CET4 TEM4 ( conveniences )
+20200705 ====> Pelion 英 ['pi:liən] 美 n. 珀利翁山（希腊山名）
+20200705 ====> deprecated 英 [ˈdeprəkeɪtɪd] 美 ['dɛprə,ketɪd] v. 不赞成；弃用；不宜用（deprecate的过去式及过去分词形式） deprecate /ˈdɛprɪˌkeɪt/ TEM8 ( deprecating, deprecated, deprecates )
+20200705 ====> manifest 英 [ˈmænɪfest] 美 [ˈmænɪfest] v. 表明，清楚显示（尤指情感、态度或品质）；证明；（病症）显现；（鬼魂或神灵）出现；在清单上记录 adj. 显然的，明显的；显现出的 n. 载货单，货单；旅客名单；货运列车编组清单 adv. 明显地 manifest /ˈmænɪˌfɛst/ CET6 TEM4 ( manifesting, manifested, manifests )
+20200705 ====> wrapper 英 [ˈræpə(r)] 美 [ˈræpər] n. 包装材料；[包装] 包装纸；书皮 wrapper /ˈræpə/ TEM8 ( wrappers )
+20200705 ====> infringement 英 [ɪnˈfrɪndʒmənt] 美 [ɪnˈfrɪndʒmənt] n. 侵犯；违反 infringement /ɪnˈfrɪndʒmənt/ ( infringements )
+20200705 ====> Willful infringement 故意侵权
+20200705 ====> prompt 英 [prɒmpt] 美 [prɑːmpt] v. 提示，鼓励；促进；激起；导致；（给演员）提白 adj. 敏捷的，迅速的；立刻的，及时的；准时的；（商品）即期要送的 n. 提示，提词；（电脑屏幕上的）提示符；鼓励；催促；付款期限 adv. 准时地 prompt /prɒmpt/ CET4 TEM4 ( prompting, prompted, prompts )
+20200705 ====> terminology 英 [ˌtɜːmɪˈnɒlədʒi] 美 [ˌtɜːrmɪˈnɑːlədʒi] n. 术语，术语学；用辞 terminology /ˌtɜːmɪˈnɒlədʒɪ/ TEM4 ( terminologies )
+20200705 ====> inclusive 英 [ɪnˈkluːsɪv] 美 [ɪnˈkluːsɪv] adj. 包含的，包括的；包含全部费用的； 包括提到的所有……在内的；范围广泛的；一切服务包含在内的；包括明示界限在内的；不排斥任何一方的；有意避免性别歧视的；兼收并蓄的 adv. 包括一切费用在内地 inclusive /ɪnˈkluːsɪv/ CET6 TEM4
+20200705 ====> deviation 英 [ˌdiːviˈeɪʃn] 美 [ˌdiːviˈeɪʃn] n. 偏差；误差；背离 deviation /ˌdiːvɪˈeɪʃən/ TEM8 ( deviations )
+20200705 ====> inclusive 英 [ɪnˈkluːsɪv] 美 [ɪnˈkluːsɪv] adj. 包含的，包括的；包含全部费用的； 包括提到的所有……在内的；范围广泛的；一切服务包含在内的；包括明示界限在内的；不排斥任何一方的；有意避免性别歧视的；兼收并蓄的 adv. 包括一切费用在内地 inclusive /ɪnˈkluːsɪv/ CET6 TEM4
+20200705 ====> idiomatic 英 [ˌɪdiəˈmætɪk] 美 [ˌɪdiəˈmætɪk] adj. 惯用的；符合语言习惯的；通顺的 idiomatic /ˌɪdɪəˈmætɪk/ TEM4
+20200705 ====> idio adj. (Idio) （意、巴）依迪奥（人名）
+20200705 ====> idiot 英 [ˈɪdiət] 美 [ˈɪdiət] n. （非正式）笨蛋；白痴；智障人 idiot /ˈɪdɪət/ CET6 TEM4 ( idiots )
+20200705 ====> wrist 英 [rɪst] 美 [rɪst] n. 手腕；腕关节 vt. 用腕力移动 wrist /rɪst/ CET4 TEM4 ( wrists )
+20200705 ====> hybridization 英 [ˌhaɪbrɪdaɪˈzeɪʃn] 美 [ˌhaɪbrɪdəˈzeɪʃn] n. 杂交；配种；[化学] 杂化；杂种培殖
+20200705 ====> substrate 英 [ˈsʌbstreɪt] 美 [ˈsʌbstreɪt] n. 基质；基片；底层（等于substratum）；酶作用物 substrate /ˈsʌbstreɪt/
+20200705 ====> confine 英 [kənˈfaɪn] 美 [kənˈfaɪn] n. （尤指某个地方限制行动自由的）边界；（尤指学科或活动领域的）范围；限制 vt. 限制；禁闭；（因疾病、残疾）无法离开（床 、家、轮椅）；将（自己或自己的活动）局限于；（妇女）卧床分娩 confine /kənˈfaɪn/ CET4 TEM4 ( confining, confined, confines )
+20200705 ====> lean 英 [liːn] 美 [liːn] v. 倾斜身体；倾斜；倚靠；（使）斜靠 adj. 瘦且健康的；脂肪少的；难以赚钱的；贫乏的；高效低耗的；（混合汽化燃料）空气所占比例高的 n. 瘦肉；倾斜；倾斜度 n. (Lean) （丹）利恩（人名） lean /liːn/ CET4 TEM4 ( leaning, leaned, leaner, leanest, leans )
+20200706 ====> transaction 英 [trænˈzækʃn] 美 [trænˈzækʃn] n. 交易；事务；办理；会报，学报 transaction /trænˈzækʃən/ CET4 TEM4 ( transactions )
+20200706 ====> snap 英 [snæp] 美 [snæp] vt. 突然折断，拉断；猛咬；啪地关上 vi. 咬；厉声说；咯嗒一声关上 n. 猛咬；劈啪声；突然折断 adj. 突然的 snap /snæp/ CET4 TEM4 ( snapping, snapped, snaps )
+20200706 ====> maintenance 英 [ˈmeɪntənəns] 美 [ˈmeɪntənəns] n. 维护，维修；保持；生活费用 maintenance /ˈmeɪntɪnəns/ CET4 TEM4
+20200706 ====> maintainer 英 [meɪn'teɪnə; mən-] 美 n. 维修工；保持器；维护设备，维护员；（史）犯包揽诉讼罪者
+20200706 ====> robust 英 [rəʊˈbʌst] 美 [roʊˈbʌst] adj. 强健的；健康的；粗野的；粗鲁的 robust /rəʊˈbʌst, ˈrəʊbʌst/ CET6 TEM8
+20200706 ====> gadget 英 [ˈɡædʒɪt] 美 [ˈɡædʒɪt] n. 小玩意；小器具；小配件；诡计 gadget /ˈɡædʒɪt/ CET6 TEM4 ( gadgets )
+20200706 ====> yocto [jɑːktoʊ] 10的-24次方 幺（科托）
+20200706 ====> interpret 英 [ɪnˈtɜːprət] 美 [ɪnˈtɜːrprət] vt. 说明；口译 vi. 解释；翻译 interpret /ɪnˈtɜːprɪt/ CET4 TEM4 ( interpreting, interpreted, interprets )
+20200706 ====> vendor 英 [ˈvendə(r)] 美 [ˈvendər] n. 卖主；小贩；供应商；[贸易] 自动售货机 vendor /ˈvɛndɔː/ CET6+ TEM4 ( vendors )
+20200706 ====> grade 英 [ɡreɪd] 美 [ɡreɪd] n. 年级；等级；成绩；级别；阶段 vt. 评分；把…分等级 vi. 分等级；逐渐变化 n. (Grade)人名；(英)格雷德；(法、德、西、葡、塞、瑞典)格拉德 grade /ɡreɪd/ CET4 TEM4 ( grading, graded, grades )
+20200707 ====> blame 英 [bleɪm] 美 [bleɪm] vt. 责备；归咎于 n. 责备；责任；过失 blame /bleɪm/ CET4 TEM4 ( blaming, blamed, blames )
+20200707 ====> newbies 英 美 n. 初学者 newbie /ˈnjuːbɪ/ ( newbies )
+20200707 ====> newbie 英 [ˈnjuːbi] 美 [ˈnuːbi] n. 网络新手；新兵 newbie /ˈnjuːbɪ/ ( newbies )
+20200707 ====> individually 英 [ˌɪndɪˈvɪdʒuəli] 美 [ˌɪndɪˈvɪdʒuəli] adv. 个别地，单独地
+20200707 ====> tailor 英 [ˈteɪlə(r)] 美 [ˈteɪlər] n. 裁缝 v. 专门制作，订做；调整；迎合 n. (Tailor) （美、爱、英）泰勒（人名） tailor /ˈteɪlə/ CET4 TEM4 ( tailoring, tailored, tailors )
+20200707 ====> tailored 英 [ˈteɪləd] 美 [ˈteɪlərd] adj. 定制的，裁缝做的；剪裁讲究的，合身的；（为特殊目的或人）制作（或修改）的 v. 专门制作，定制；（裁缝）度身缝制（衣服）；使适应，迎合（tailor 的过去式和过去分词） tailored /ˈteɪləd/
+20200707 ====> pejorative 英 [pɪˈdʒɒrətɪv] 美 [pɪˈdʒɔːrətɪv] adj. 轻蔑的，贬损的；恶化的，变坏的 n. 轻蔑语，贬义词 pejorative /pɪˈdʒɒrətɪv/
+20200707 ====> daemon 英 [ˈdiːmən] 美 [ˈdiːmən] n. 守护进程；后台程序
+20200707 ====> sprint 英 [sprɪnt] 美 [sprɪnt] v. 冲刺；全速跑 n. 冲刺；全速跑 n. (Sprint) （美、俄、英、巴、加）史鄱林特（人名） sprint /sprɪnt/ TEM8 ( sprinting, sprinted, sprints )
+20200707 ====> sprint 英 [sprɪnt] 美 [sprɪnt] v. 冲刺；全速跑 n. 冲刺；全速跑 n. (Sprint) （美、俄、英、巴、加）史鄱林特（人名） sprint /sprɪnt/ TEM8 ( sprinting, sprinted, sprints )
+20200707 ====> epic 英 [ˈepɪk] 美 [ˈepɪk] n. 叙事诗；史诗；史诗体裁；史诗般的电影（或书籍）；壮举；（非正式）特别耗时费力的事情 adj. 史诗般的；漫长而艰难的；宏大的；英雄的 epic /ˈɛpɪk/ CET6+ TEM4 ( epics )
+20200707 ====> QA [ˌkjuː ˈeɪ] abbr. 品质保证（Quality Assurance）；质量评价（Quality Assessment） qa
+20200707 ====> scrum 英 [skrʌm] 美 [skrʌm] n. 扭打，混乱；并列争球 vi. 参加并列争球 vt. 抛（球）开始并列争球 scrum /skrʌm/ TEM8 ( scrums )
+20200707 ====> backlog 英 [ˈbæklɒɡ] 美 [ˈbæklɔːɡ] n. [管理] 积压的工作；积压待办的事务；大木材 vt. 储备；把…积压起来 backlog /ˈbækˌlɒɡ/ ( backlogs )
+20200708 ====> hint 英 [hɪnt] 美 [hɪnt] n. 暗示；线索 vt. 暗示；示意 vi. 示意 n. (Hint)人名；(英)欣特；(法)安特 hint /hɪnt/ CET4 TEM4 ( hinting, hinted, hints )
+20200708 ====> debian 英 美 n. (Debian) 通用操作系统 n. (Debian) （美、俄）得碧让（人名）
+20200708 ====> mandatory 英 [ˈmændətəri; mænˈdeɪtəri] 美 [ˈmændətɔːri] adj. 强制的；托管的；命令的 n. 受托者（等于mandatary） mandatory /ˈmændətərɪ/ CET6+ TEM8
+20200708 ====> confine 英 [kənˈfaɪn] 美 [kənˈfaɪn] n. （尤指某个地方限制行动自由的）边界；（尤指学科或活动领域的）范围；限制 vt. 限制；禁闭；（因疾病、残疾）无法离开（床 、家、轮椅）；将（自己或自己的活动）局限于；（妇女）卧床分娩 confine /kənˈfaɪn/ CET4 TEM4 ( confining, confined, confines )
+20200709 ====> transaction 英 [trænˈzækʃn] 美 [trænˈzækʃn] n. 交易；事务；办理；会报，学报 transaction /trænˈzækʃən/ CET4 TEM4 ( transactions )
+20200709 ====> intro 英 [ˈɪntrəʊ] 美 [ˈɪntroʊ] n. 前奏，前言，导言；介绍；简介 [复数 intros] intro /ˈɪntrəʊ/ ( intros )
+20200709 ====> populate 英 [ˈpɒpjuleɪt] 美 [ˈpɑːpjuleɪt] vt. 居住于；构成人口；移民于；殖民于 populate /ˈpɒpjʊˌleɪt/ CET6 ( populating, populated, populates )
+20200709 ====> latter 英 [ˈlætə(r)] 美 [ˈlætər] adj. 后者的；近来的；后面的；较后的 n. （Latter）（英、德、捷）拉特（人名） latter /ˈlætə/ CET4 TEM4
+20200709 ====> arbitrary 英 [ˈɑːbɪtrəri; ˈɑːbɪtri] 美 [ˈɑːrbɪtreri] adj. [数] 任意的；武断的；专制的 arbitrary /ˈɑːbɪtrərɪ/ CET4 TEM4
+20200709 ====> manipulate 英 [məˈnɪpjuleɪt] 美 [məˈnɪpjuleɪt] vt. 操纵；操作；巧妙地处理；篡改 manipulate /məˈnɪpjʊˌleɪt/ CET4 TEM4 ( manipulating, manipulated, manipulates )
+20200709 ====> archive 美 [ˈɑːrkaɪv] n. 档案馆；档案文件 vt. 把…存档 archive /ˈɑːkaɪv/ CET6+ TEM8 ( archiving, archived, archives )
+20200709 ====> degrade 英 [dɪˈɡreɪd] 美 [dɪˈɡreɪd] vt. 贬低；使……丢脸；使……降级；使……降解 vi. 降级，降低；退化 degrade /dɪˈɡreɪd/ CET6 TEM8 ( degrading, degraded, degrades )
+20200709 ====> posix n. （计算机）简便操作系统
+20200709 ====> bundle 英 [ˈbʌndl] 美 [ˈbʌndl] n. 束；捆 vt. 捆 vi. 匆忙离开 bundle /ˈbʌndəl/ CET4 TEM4 ( bundling, bundled, bundles )
+20200709 ====> degrade 英 [dɪˈɡreɪd] 美 [dɪˈɡreɪd] vt. 贬低；使……丢脸；使……降级；使……降解 vi. 降级，降低；退化 degrade /dɪˈɡreɪd/ CET6 TEM8 ( degrading, degraded, degrades )
+20200710 ====> negotiate 英 [nɪˈɡəʊʃieɪt] 美 [nɪˈɡoʊʃieɪt] vt. 谈判，商议；转让；越过 vi. 谈判，交涉 negotiate /nɪˈɡəʊʃɪˌeɪt/ CET4 TEM4 ( negotiating, negotiated, negotiates )
+20200710 ====> vague 英 [veɪɡ] 美 [veɪɡ] adj. 模糊的；含糊的；不明确的；暧昧的 n. (Vague)人名；(法)瓦格；(英)韦格 vague /veɪɡ/ CET4 TEM4 ( vaguer, vaguest )
+20200710 ====> pivot 英 [ˈpɪvət] 美 [ˈpɪvət] n. 枢轴；中心点；中心；旋转运动；基准兵；中锋；（篮球）持球转身策应 v. 以……为中心旋转；把……置于枢轴上；在枢轴上转动；随……转移 n. (Pivot) （法、美、意、英、瑞、俄）皮沃（人名） pivot /ˈpɪvət/ TEM8 ( pivoting, pivoted, pivots )
+20200710 ====> truncate 英 [trʌŋˈkeɪt] 美 [ˈtrʌŋkeɪt] v. 截断，删节；把……截成平面 adj. （叶、羽毛等）截形的；截短的 truncate
+20200710 ====> pivot 英 [ˈpɪvət] 美 [ˈpɪvət] n. 枢轴；中心点；中心；旋转运动；基准兵；中锋；（篮球）持球转身策应 v. 以……为中心旋转；把……置于枢轴上；在枢轴上转动；随……转移 n. (Pivot) （法、美、意、英、瑞、俄）皮沃（人名） pivot /ˈpɪvət/ TEM8 ( pivoting, pivoted, pivots )
+20200713 ====> lxc 添加释义         网络释义 &nbsp; 容器 ...采取将各种资源分装在容器内的细粒度资源分配方法，整个分布式资源管理系统封装了为数众多的容器，为了避免不同任务之间相互干扰，需要提供容器间资源隔离方法。 Linux容器（LXC）：轻量级的内核虚拟化技术，可以用来进行资源和进程运行的隔离，通过LXC可以在一台物理主机上隔离出多个相互隔离的容器。 基于246个网页-相关网页 &nbsp; 技术 那么linux容器虚拟技术（LXC）是你的选择。 部署一个一致的生产环境说起来容易做起来难。 基于146个网页-相关网页 &nbsp; 给料机 这里为您提供了称重式螺旋给料机 的产品价格、型号规格、 品牌/商标、企业类型、产品... 徐州华为测控螺旋称重给料机(LXC/LSC)称重式螺旋给料机是对各种粉状、散粒状物料进行连续输送、动态计量、控制给料的生产计量设备。 基于44个网页-相关网页 &nbsp; 一种低串音连接器 一种低串音连接器（LXC）,高速传输 连接器 低串音连接器... 基于44个网页-相关网页 短语 EV-LXC 电动老爷车 相关文章 双语例句 LXC USES the cgroup filesystem to manage containers. LXC使用cgroup文件系统来管理容器。 www.ibm.com Start this container using the command lxc-start -n vsplain. 使用命令lxc - start - n vsplain启动这个容器。 www.ibm.com Before being able to use LXC, you need to download Linux kernel source code, apply an appropriate LXC patch, then build, install, and boot it. 在使用lxc之前，首先需要下载Linux内核源代码，应用适当的lxc补丁，然后构建、安装和启动它。 www.ibm.com
+20200713 ====> scrum 英 [skrʌm] 美 [skrʌm] n. 扭打，混乱；并列争球 vi. 参加并列争球 vt. 抛（球）开始并列争球 scrum /skrʌm/ TEM8 ( scrums )
+20200713 ====> tutorial 英 [tjuːˈtɔːriəl] 美 [tuːˈtɔːriəl] adj. （与）大学导师（有关）的；（与）家庭教师（有关）的；（与）大学助教（有关）的；（与）辅导（有关）的 n. （大学导师）个别指导时间，辅导课；辅导材料，使用说明书；软件教程 tutorial /tjuːˈtɔːrɪəl/ CET6 TEM4 ( tutorials )
+20200713 ====> sprint 英 [sprɪnt] 美 [sprɪnt] v. 冲刺；全速跑 n. 冲刺；全速跑 n. (Sprint) （美、俄、英、巴、加）史鄱林特（人名） sprint /sprɪnt/ TEM8 ( sprinting, sprinted, sprints )
+20200713 ====> epic 英 [ˈepɪk] 美 [ˈepɪk] n. 叙事诗；史诗；史诗体裁；史诗般的电影（或书籍）；壮举；（非正式）特别耗时费力的事情 adj. 史诗般的；漫长而艰难的；宏大的；英雄的 epic /ˈɛpɪk/ CET6+ TEM4 ( epics )
+20200713 ====> sticky 英 [ˈstɪki] 美 [ˈstɪki] adj. 粘的；粘性的 sticky /ˈstɪkɪ/ CET4 TEM4 ( stickier, stickiest )
+20200714 ====> partial 英 [ˈpɑːʃl] 美 [ˈpɑːrʃl] adj. 局部的；偏爱的；不公平的 partial /ˈpɑːʃəl/ CET4 TEM4
+20200714 ====> writeable adj. 可存放资料的；可写入的
+20200714 ====> 预留 reserved
+20200714 ====> pivot 英 [ˈpɪvət] 美 [ˈpɪvət] n. 枢轴；中心点；中心；旋转运动；基准兵；中锋；（篮球）持球转身策应 v. 以……为中心旋转；把……置于枢轴上；在枢轴上转动；随……转移 n. (Pivot) （法、美、意、英、瑞、俄）皮沃（人名） pivot /ˈpɪvət/ TEM8 ( pivoting, pivoted, pivots )
+20200715 ====> popluate 添加释义         网络释义 短语 Popluate objects-Density 密度 Popluate objects-Color&amp;Presence 颜色与约束 相关文章 应用推荐 $firstVoiceSent - 来自原声例句 关于有道 Investors 有道智选 官方博客 技术博客 诚聘英才 联系我们 站点地图 网络举报 &copy; 2020 网易公司 隐私政策 服务条款 京ICP证080268号 京ICP备10005211号 中英 中法 中韩 中日
+20200715 ====> populate 英 [ˈpɒpjuleɪt] 美 [ˈpɑːpjuleɪt] vt. 居住于；构成人口；移民于；殖民于 populate /ˈpɒpjʊˌleɪt/ CET6 ( populating, populated, populates )
+20200715 ====> obsolete 英 [ˈɒbsəliːt] 美 [ˌɑːbsəˈliːt] adj. 废弃的；老式的 n. 废词；陈腐的人 vt. 淘汰；废弃 obsolete /ˈɒbsəˌliːt/ TEM8
+20200715 ====> experiment 英 [ɪkˈsperɪmənt] 美 [ɪkˈsperɪmənt] n. 实验，试验；尝试 v. 尝试；试验；进行实验 experiment CET4 TEM4 ( experimenting, experimented, experiments ) 名词读作ɪkˈspɛrɪmənt。动词读作ɪkˈspɛrɪˌmɛnt。
+20200715 ====> rescue 英 [ˈreskjuː] 美 [ˈreskjuː] v. 营救，援救；（非正式）防止……丢失 n. 营救，解救，援救；营救行动 rescue /ˈrɛskjuː/ CET4 TEM4 ( rescuing, rescued, rescues )
+20200715 ====> scenario 英 [səˈnɑːriəʊ] 美 [səˈnærioʊ] n. 方案；情节；剧本；设想 scenario /sɪˈnɑːrɪˌəʊ/ CET6 TEM8 ( scenarios )
+20200715 ====> obsolete 英 [ˈɒbsəliːt] 美 [ˌɑːbsəˈliːt] adj. 废弃的；老式的 n. 废词；陈腐的人 vt. 淘汰；废弃 obsolete /ˈɒbsəˌliːt/ TEM8
+20200715 ====> throttle 英 [ˈθrɒtl] 美 [ˈθrɑːtl] n. 节流阀；[车辆] 风门；喉咙 vt. 压制，扼杀；使……窒息；使……节流 vi. 节流，减速；窒息 throttle /ˈθrɒtəl/ TEM8 ( throttling, throttled, throttles )
+20200715 ====> throttling 英 ['θrɒtlɪŋ] 美 n. 节流调节；使窒息 v. 掐死，使窒息；节流调节，调节蕻油门（throttle 的现在分词） throttle /ˈθrɒtəl/ TEM8 ( throttling, throttled, throttles )
+20200715 ====> hybrid 英 [ˈhaɪbrɪd] 美 [ˈhaɪbrɪd] n. 杂种，混血儿；混合物 adj. 混合的；杂种的 hybrid /ˈhaɪbrɪd/ CET6+ TEM8 ( hybrids )
+20200715 ====> sanity 英 [ˈsænəti] 美 [ˈsænəti] n. 明智；头脑清楚；精神健全；通情达理 sanity /ˈsænɪtɪ/ TEM4
+20200716 ====> confine 英 [kənˈfaɪn] 美 [kənˈfaɪn] n. （尤指某个地方限制行动自由的）边界；（尤指学科或活动领域的）范围；限制 vt. 限制；禁闭；（因疾病、残疾）无法离开（床 、家、轮椅）；将（自己或自己的活动）局限于；（妇女）卧床分娩 confine /kənˈfaɪn/ CET4 TEM4 ( confining, confined, confines )
+20200716 ====> tamper 英 [ˈtæmpə(r)] 美 [ˈtæmpər] v. 做手脚，破坏 n. 夯工，拍压的人；打夯机 tamper /ˈtæmpə/ TEM8 ( tampering, tampered, tampers )
+20200716 ====> resistant 英 [rɪˈzɪstənt] 美 [rɪˈzɪstənt] adj. 抵抗的，反抗的；顽固的 n. 抵抗者 resistant /rɪˈzɪstənt/ CET4 TEM4
+20200716 ====> vulnerability 英 [ˌvʌlnərəˈbɪləti] 美 [ˌvʌlnərəˈbɪləti] n. 易损性；弱点
+20200716 ====> premise 英 [ˈpremɪs] 美 [ˈpremɪs] n. 前提，假定；（常复数）商店、餐馆、公司等使用的房屋及土地；（常复数）上诉各项 v. 以……为前提；引出，预先提出；说明 premise /ˈprɛmɪs/ CET6 TEM4 ( premises )
+20200717 ====> contrary 英 ['kɒntrərɪ] 美 ['kɑntrɛri] adj. 相反的；对立的 adv. 相反地 n. 相反；反面 contrary /ˈkɒntrərɪ/ CET4 TEM4
+20200717 ====> QEMU 虚拟操作系统模拟器
+20200717 ====> helloworld 添加释义         网络释义 &nbsp; 手把手 ... 汉化Eclipse 手把手HelloWorld 不一样的HelloWorld ... 基于18个网页-相关网页 &nbsp; 基本结构

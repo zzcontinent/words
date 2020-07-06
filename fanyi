@@ -87,7 +87,7 @@ then
 else
 	echo -e "\033[31;1m====>$head\033[0m"
 fi
-[ ! -z "$head" ] && echo -e "====>$head" >> $LOG
+[ ! -z "$head" ] && echo -e "`date '+%Y%m%d'` ====>$head" >> $LOG
 exit 0
 EOF
 
